@@ -1,0 +1,21 @@
+.nav-list {
+    display: flex;
+    list-style-type: none;
+}
+
+
+.nav-list-item {
+    margin-left: 10px;
+}
+
+.nav-link {
+    /* Style for "About" */
+    color: #ffffff;
+    font-family: "Avenir Next Rounded Std";
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: red;
+}
